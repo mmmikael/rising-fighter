@@ -1,4 +1,4 @@
-# rising-fighter
+# Rising Fighter
 
 ### OS Installation
 * Download RASPBIAN JESSIE LITE https://www.raspberrypi.org/downloads/raspbian/
