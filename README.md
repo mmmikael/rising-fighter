@@ -26,4 +26,4 @@ $ sudo apt-get install docker-ce
 ```
 Test: `sudo docker run armhf/hello-world` 
 
-Images: `https://hub.docker.com/u/arm64v8`
+Images: https://hub.docker.com/u/arm64v8
